@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9FD2938F-00B2-459C-BED1-D6F4F6EB551E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleKT/TwitterUser.cs">
+    <Files>
+      <File FileName="SampleKT/AppDelegate.cs" Line="29" Column="1" />
+      <File FileName="SampleKT/LoginView.cs" Line="13" Column="49" />
+      <File FileName="SampleKT/Main.cs" Line="12" Column="1" />
+      <File FileName="SampleKT/Info.plist" />
+      <File FileName="../../Sateesh/CMES/CMES/WebServices/ResponseDTO/UserDetailsGoogleDto.cs" Line="29" Column="3" />
+      <File FileName="SampleKT/UserDetailsGoogleDto.cs" Line="8" Column="16" />
+      <File FileName="SampleKT/TwitterUser.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleKT PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.85F703EA-4396-4348-8B85-AA7F62F165C6" automaticSigning="False" />
+  <MultiItemStartupConfigurations />
+</Properties>
